@@ -1,6 +1,8 @@
 Subject:	List Belajar Merancang User Interface
-by:	Satrio Kuncoro
+by:		Satrio Kuncoro
 
 1. Button
 2. JComboBox
 3. Luas Segi Panjang
+4. JOptionPane
+5. Scroll Bar
